@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+/usun
+/.venv
+/.idea
+/Main.ipynb
+/Main_copy.ipynb
